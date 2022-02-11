@@ -1,0 +1,2 @@
+# azeroth
+learn to azerothCore
